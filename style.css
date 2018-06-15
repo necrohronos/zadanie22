@@ -1,0 +1,8 @@
+h1, h3 {background-color: darkgreen;
+color: #fff;}
+p {
+    color: darkgrey;
+}
+h3:first-of-type {
+    color: darkgoldenrod;
+}
